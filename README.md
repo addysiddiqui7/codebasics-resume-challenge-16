@@ -1,10 +1,11 @@
-AirPure Innovations – Market Fit Research (Codebasics Resume Challenge 16)
+**AirPure Innovations – Market Fit Research (Codebasics Resume Challenge 16)**
 
 This repository contains my submission for Codebasics Resume Project Challenge 16, focused on analyzing India's air pollution crisis and identifying the product-market fit for AirPure Innovations, a hypothetical startup in the air purification industry.
 
 The project combines data analysis, visualization, and research to provide actionable insights for stakeholders and decision-makers.
 
-Project Overview
+
+**Project Overview**
 
 India ranks among the most polluted countries globally, with 14 cities in the top 20 most polluted. AirPure Innovations aimed to understand the market potential before investing in production and R&D.
 
@@ -18,7 +19,8 @@ Policy and market dynamics affecting air purifier adoption
 
 Demand surges during seasonal pollution spikes
 
-Deliverables
+
+**Deliverables**
 
 Video Presentation
 
@@ -29,7 +31,7 @@ Product Requirement & Development Document
 Research Findings (Presentation PDF)
 
 
-Dashboard Highlights
+**Dashboard Highlights**
 
 Home Page: Project introduction and overview
 
@@ -41,7 +43,8 @@ Market: Current market landscape for air purifiers
 
 Summary Pages: Concise insights for quick stakeholder decision-making
 
-Key Insights
+
+**Key Insights**
 
 PM10 & PM2.5 are the most harmful pollutants — filtration must prioritize these.
 
@@ -59,7 +62,8 @@ Awareness of AQI exists, but understanding is low in Tier 2/3 cities.
 
 Pollution spikes directly influence demand — especially during Diwali.
 
-Strategic Roadmap
+
+**Strategic Roadmap**
 
 Prioritize PM2.5 + VOC filtration technology
 
@@ -71,6 +75,7 @@ Build awareness campaigns around AQI in non-metro cities
 
 Leverage clean-air policies for growth opportunities
 
-Acknowledgment
+
+**Acknowledgment**
 
 This project was guided by the Codebasics Resume Challenge (Challenge 16), with mentorship and inspiration from Dhaval Patel and Hemanand Vadivel.
